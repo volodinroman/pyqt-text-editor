@@ -24,8 +24,8 @@ What Is Done:
 - It remembers a geometry and a state of the MainWindow and also restores some previously entered data to the TextArea
 
 Usage:
-    $cd {A folder where yhave copied WetaApp project}
-    $ python3.6 WetaApp
+    $cd {A folder where yhave copied QtTextEditor project}
+    $ python3.6 QtTextEditor
 
 Requirements:
     PyQt5
