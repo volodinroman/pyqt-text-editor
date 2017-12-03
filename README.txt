@@ -1,6 +1,5 @@
-Weta Digital Test Assignment 2017 (Roman Volodin, http://romanvolodin.com)
 
-The goal is a stand-alone PtQt/PySide application which can be launched from the command line.
+This is a stand-alone PtQt/PySide application which can be launched from the command line.
 
 The technical requirements are:
 * Include a menu bar offering one or more options 
