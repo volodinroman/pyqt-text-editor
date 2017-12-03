@@ -1,5 +1,5 @@
 
-This is a stand-alone PtQt/PySide application which can be launched from the command line.
+A stand-alone PtQt/PySide application which can be launched from the command line.
 
 The technical requirements are:
 * Include a menu bar offering one or more options 
