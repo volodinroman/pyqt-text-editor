@@ -1,7 +1,7 @@
 
 A standalone PyQt5 text editor which can be launched from the command line.
 
-The technical requirements are:
+## Features:
 * Include a menu bar offering one or more options 
 * Include a widget for the user to enter text with a 140-character limit 
 * Include a control to modify the text style (eg. text font or colour)
